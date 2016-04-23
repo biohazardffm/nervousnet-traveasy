@@ -1,0 +1,23 @@
+{
+  "name": "nervousnet-traveasy",
+  "version": "1.0.0",
+  "description": "A sample backend for the nervousnet traveasy axon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biohazardffm/nervousnet-traveasy.git"
+  },
+  "keywords": [
+    "nervousnet",
+    "traveasy"
+  ],
+  "author": "TravEasy Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biohazardffm/nervousnet-traveasy/issues"
+  },
+  "homepage": "https://github.com/biohazardffm/nervousnet-traveasy#readme"
+}
